@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>DSC08604-removebg.png</file>
+  </qresource>
+</RCC>
